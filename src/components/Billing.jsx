@@ -12,7 +12,7 @@ const Billing = () => (
       />
       {/* gradient start */}
       <div className='absolute top-0 w-[50%] h-[50%] z-[3] -left-1/2 rounded-full white__gradient ' />
-      <div className='absolute bottom-0 w-[50%] h-[50%] z-[0] -left-1/2 rounded-full pink__gradient ' />
+      <div className='absolute bottom-20 w-[50%] h-[50%] z-[0] -left-1/2 rounded-full pink__gradient ' />
       {/* gradient end */}
     </div>
     {/* right */}
