@@ -10,6 +10,7 @@ The purpose of making this project was to learn about React, and enhance my Reac
 - Added some extra css classes
     - hover on buttons and nav links
 - Altered the state on card design slightly
+    - removed hover on cards, added hover effect as stale state as per design
 
 ## Built with
 
