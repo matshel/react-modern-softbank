@@ -8,6 +8,7 @@ The purpose of making this project was to learn about React, and enhance my Reac
 ## Additions
 
 - Added some extra css classes
+    - hover on buttons and nav links
 - Altered the state on card design slightly
 
 ## Built with
