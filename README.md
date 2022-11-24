@@ -1,4 +1,4 @@
-# A landingpage for a softbank named Hootbank
+# A landingpage for a softbank named Hoobank
 
 ![image](https://github.com/matshel/react-modern-softbank/blob/master/src/assets/hoobank.png?raw=true)
 
