@@ -8,7 +8,7 @@ const Billing = () => (
       <img
         src={bill}
         alt='billing'
-        className='w-[100%] h-[100%] relative z-5'
+        className='w-[100%] h-[100%] relative z-[4]'
       />
       {/* gradient start */}
       <div className='absolute top-0 w-[50%] h-[50%] z-[3] -left-1/2 rounded-full white__gradient ' />
