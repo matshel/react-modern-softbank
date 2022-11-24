@@ -5,6 +5,11 @@
 In this project I have recreated Javascrip Mastery's landingpage based on [oneweekwonder](https://dribbble.com/OWWStudio) design.
 The purpose of making this project was to learn about React, and enhance my React skills.
 
+## Additions
+
+- Added some extra css classes
+- Altered the state on card design slightly
+
 ## Built with
 
 - Vite [vite](https://vitejs.dev/) 
